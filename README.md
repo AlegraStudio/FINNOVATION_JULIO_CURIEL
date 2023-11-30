@@ -1,4 +1,4 @@
-Claro, aquí tienes un ejemplo de README.md para el proyecto "FInnovation" de Julio Curiel, basado en el directorio proporcionado y siguiendo la estructura del ejemplo:
+
 ```markdown
 # FInnovation Canister
 
